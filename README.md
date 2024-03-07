@@ -1,4 +1,5 @@
-# wentokens Foundry project
+# built from wentokens, with extra ERC721 multi sending function
+# Foundry project
 
 ## Installing, Building, and Testing
 
